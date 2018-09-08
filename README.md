@@ -8,4 +8,4 @@
 
 ##### The dataset is also calibrated to matched with index files (time location and moon effection).
 
-##### The gaussian function is used to model detect possible clumps in the curves.
+##### The gaussian function/process is used to model detect possible clumps in the curves.
